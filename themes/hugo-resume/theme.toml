@@ -21,3 +21,7 @@ defaultContentLanguage = "de"
   name = "Start Bootstrap Resume"
   homepage = "https://startbootstrap.com/template-overviews/resume/"
   repo = "https://github.com/BlackrockDigital/startbootstrap-resume"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
