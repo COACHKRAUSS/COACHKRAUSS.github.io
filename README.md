@@ -1,3 +1,0 @@
-# COACHKRAUSS.github.io
-
-test

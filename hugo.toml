@@ -1,0 +1,18 @@
+baseURL = 'https://coach-krauss.de/'
+languageCode = 'de-de'
+title = 'Coach Krauss'
+theme = 'hugo-resume'
+
+[params]
+address = "Reiherweg 33, 34128 Kassel"
+email = "Coach_Krauss@web.de"
+favicon = "/favicon.ico"
+firstName = "Coach"
+lastName = "Krauss"
+phone = "+491704027025"
+profileImage = "images/pascal-krauss.png"
+showQr = true
+showContact = false
+showBoards  = false
+showCertifications = false
+showSocializations = false
