@@ -144,13 +144,16 @@ Art. 20 DSGVO zu erhalten und deren Übermittlung an andere Verantwortliche zu f
 Sie haben ferner gem. Art. 77 DSGVO das Recht, eine Beschwerde bei der zuständigen Aufsichtsbehörde einzureichen.
 
 ### Widerrufsrecht
+
 Sie haben das Recht, erteilte Einwilligungen gem. Art. 7 Abs. 3 DSGVO mit Wirkung für die Zukunft zu widerrufen
 
 ### Widerspruchsrecht
+
 Sie können der künftigen Verarbeitung der Sie betreffenden Daten nach Maßgabe des Art. 21 DSGVO jederzeit widersprechen.
 Der Widerspruch kann insbesondere gegen die Verarbeitung für Zwecke der Direktwerbung erfolgen.
 
 ### Cookies und Widerspruchsrecht bei Direktwerbung
+
 Als „Cookies“ werden kleine Dateien bezeichnet, die auf Rechnern der Nutzer gespeichert werden. Innerhalb der Cookies
 können unterschiedliche Angaben gespeichert werden. Ein Cookie dient primär dazu, die Angaben zu einem Nutzer (bzw. dem
 Gerät auf dem das Cookie gespeichert ist) während oder auch nach seinem Besuch innerhalb eines Onlineangebotes zu
@@ -177,6 +180,7 @@ mittels deren Abschaltung in den Einstellungen des Browsers erreicht werden. Bit
 gegebenenfalls nicht alle Funktionen dieses Onlineangebotes genutzt werden können.
 
 ### Löschung von Daten
+
 Die von uns verarbeiteten Daten werden nach Maßgabe der Art. 17 und 18 DSGVO gelöscht oder in ihrer Verarbeitung
 eingeschränkt. Sofern nicht im Rahmen dieser Datenschutzerklärung ausdrücklich angegeben, werden die bei uns
 gespeicherten Daten gelöscht, sobald sie für ihre Zweckbestimmung nicht mehr erforderlich sind und der Löschung keine
@@ -196,6 +200,7 @@ erbrachten Leistungen, Telekommunikations-, Rundfunk- und Fernsehleistungen, die
 EU-Mitgliedstaaten erbracht werden und für die der Mini-One-Stop-Shop (MOSS) in Anspruch genommen wird.
 
 ### Hosting und E-Mail-Versand
+
 Die von uns in Anspruch genommenen Hosting-Leistungen dienen der Zurverfügungstellung der folgenden Leistungen:
 Infrastruktur- und Plattformdienstleistungen, Rechenkapazität, Speicherplatz und Datenbankdienste, E-Mail-Versand,
 Sicherheitsleistungen sowie technische Wartungsleistungen, die wir zum Zwecke des Betriebs dieses Onlineangebotes
@@ -207,6 +212,7 @@ Grundlage unserer berechtigten Interessen an einer effizienten und sicheren Zurv
 gem. Art. 6 Abs. 1 lit. f DSGVO i.V.m. Art. 28 DSGVO (Abschluss Auftragsverarbeitungsvertrag).
 
 ### Erhebung von Zugriffsdaten und Logfiles
+
 Wir, bzw. unser Hostinganbieter, erhebt auf Grundlage unserer berechtigten Interessen im Sinne des Art. 6 Abs. 1 lit. f.
 DSGVO Daten über jeden Zugriff auf den Server, auf dem sich dieser Dienst befindet (sogenannte Serverlogfiles). Zu den
 Zugriffsdaten gehören Name der abgerufenen Webseite, Datei, Datum und Uhrzeit des Abrufs, übertragene Datenmenge,
@@ -218,6 +224,7 @@ die Dauer von maximal 7 Tagen gespeichert und danach gelöscht. Daten, deren wei
 erforderlich ist, sind bis zur endgültigen Klärung des jeweiligen Vorfalls von der Löschung ausgenommen.
 
 ## Einbindung von Diensten und Inhalten Dritter
+
 Wir setzen innerhalb unseres Onlineangebotes auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der
 Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO)
 Inhalts- oder Serviceangebote von Drittanbietern ein, um deren Inhalte und Services, wie z.B. Videos oder Schriftarten
@@ -233,4 +240,9 @@ können ferner in Cookies auf dem Gerät der Nutzer gespeichert werden und unter
 Browser und Betriebssystem, verweisende Webseiten, Besuchszeit sowie weitere Angaben zur Nutzung unseres Onlineangebotes
 enthalten, als auch mit solchen Informationen aus anderen Quellen verbunden werden.
 
-### 
+### Github Pages
+
+Diese Webseite wird gehostet auf Servern der Github Inc., 88 Colin P Kelly Jr. Street, San Francisco, CA 94107, USA.
+GitHub kann beim Aufruf dieser Webseiten technische Informationen inklusive ihrer IP Adresse aufzeichnen. Weitere
+Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von GitHub
+unter https://help.github.com/articles/github-privacy-policy.
