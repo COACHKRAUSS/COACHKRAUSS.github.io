@@ -34,11 +34,14 @@ Euer coach_krauss
 
 ### 11 Fakten über mich
 
-- Verheiratet, 3 Söhne
-- Konstrukteur aus Kassel
+- Verheiratet
+- 3 Söhne
+- Konstrukteur
+- Kasseläner
 - UEFA B-Lizenz
 - Fan von Eintracht Frankfurt
-- 30 Jahre Fußball gespielt, höchste Klasse: 5. Liga
+- 30 Jahre Fußball gespielt
+- höchste Klasse: 5. Liga
 - 8 Jahre Trainer
 - Achillessehne gerissen
 - Süchtig nach Lachen
