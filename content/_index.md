@@ -78,9 +78,9 @@ Dabei wird das Training ganz nach Deinen speziellen Zielen ausgearbeitet, um Dic
 
 
 #### Kleingruppen-Training (2–6 Personen)
-- 60 Minuten 40€* bei 2 Personen
-- 60 Minuten 35€* bei 3 Personen 
-- 60 Minuten 30€* bei 4-6 Personen
+- 60 Minuten 35€* bei 2 Personen
+- 60 Minuten 30€* bei 3 Personen 
+- 60 Minuten 25€* bei 4-6 Personen
 
 (* *Preis pro Person*)
 
