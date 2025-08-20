@@ -21,7 +21,7 @@ Schon während meiner aktiven Zeit als Spieler, habe ich die UEFA B-Lizenz absol
 
 Ich hatte/habe das Glück Senioren und Juniorenmannschaften zu trainieren welches beides reizvolle Aufgaben sind.
 
-Wenn ihr als Spieler,- Gruppe.- Mannschaft Hilfe braucht, sei es auf einem bestimmten Gebiet oder einfach mal neuen Input braucht, dann helfe ich euch gerne euch weiter zu entwickeln um auf das nächste Level zu kommen.
+Wenn ihr als Spieler,- Gruppe.- Mannschaft Hilfe braucht, sei es auf einem bestimmten Gebiet oder einfach mal neuen Input braucht, dann helfe ich gerne euch weiter zu entwickeln um auf das nächste Level zu kommen.
 
 Und wenn ihr dazu auch noch euren Verein oder euch selbst auf Social Media mehr Supporten wollt um mehr Reichweite zu bekommen, dann helfe ich auch da gerne weiter.
 
